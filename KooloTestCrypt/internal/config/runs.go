@@ -38,7 +38,7 @@ var AvailableRuns = map[Run]interface{}{
 	CountessRun:         nil,
 	AndarielRun:         nil,
 	AncientTunnelsRun:   nil,
-	CryptRun             nil,
+	CryptRun:            nil,
 	MausoleumRun:        nil,
 	SummonerRun:         nil,
 	DurielRun:           nil,
